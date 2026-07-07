@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0013-roman-to-integer) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## String
 |  |
@@ -27,10 +28,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [1288-remove-covered-intervals](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/1301-number-of-paths-with-max-score) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Backtracking
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0079-word-search) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -107,4 +110,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0142-linked-list-cycle-ii) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0237-delete-node-in-a-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Combinatorics
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Enumeration
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/1863-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
