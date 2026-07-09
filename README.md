@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0013-roman-to-integer) |
 | [0142-linked-list-cycle-ii](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0142-linked-list-cycle-ii) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Math
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/1301-number-of-paths-with-max-score) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -69,10 +71,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Graph Theory
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -97,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/1382-balance-a-binary-search-tree) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Binary Tree
 |  |
 | ------- |
