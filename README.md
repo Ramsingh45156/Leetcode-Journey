@@ -158,4 +158,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
