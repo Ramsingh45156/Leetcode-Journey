@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0142-linked-list-cycle-ii](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0142-linked-list-cycle-ii) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## String Matching
 |  |
 | ------- |
@@ -79,10 +81,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [1301-number-of-paths-with-max-score](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/1301-number-of-paths-with-max-score) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -92,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/1382-balance-a-binary-search-tree) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Tree
 |  |
 | ------- |
@@ -105,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/1382-balance-a-binary-search-tree) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Binary Tree
 |  |
 | ------- |
@@ -116,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1288-remove-covered-intervals](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/1288-remove-covered-intervals) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -128,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Combinatorics
 |  |
 | ------- |
