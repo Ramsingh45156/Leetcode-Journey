@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0101-symmetric-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0102-binary-tree-level-order-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0112-path-sum) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0096-unique-binary-search-trees) |
 | [0101-symmetric-tree](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0101-symmetric-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0102-binary-tree-level-order-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0112-path-sum) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0096-unique-binary-search-trees) |
 | [0101-symmetric-tree](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0101-symmetric-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0102-binary-tree-level-order-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0112-path-sum) |
