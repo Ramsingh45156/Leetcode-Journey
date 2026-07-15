@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0096-unique-binary-search-trees) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## String
@@ -221,4 +222,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0145-binary-tree-postorder-traversal) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
