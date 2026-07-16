@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0145-binary-tree-postorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0257-binary-tree-paths) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0096-unique-binary-search-trees) |
 | [0119-pascals-triangle-ii](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0119-pascals-triangle-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1301-number-of-paths-with-max-score](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/1301-number-of-paths-with-max-score) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Divide and Conquer
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0145-binary-tree-postorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0257-binary-tree-paths) |
@@ -170,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0145-binary-tree-postorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0257-binary-tree-paths) |
