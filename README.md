@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0145-binary-tree-postorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0257-binary-tree-paths) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1382-balance-a-binary-search-tree](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/1382-balance-a-binary-search-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0145-binary-tree-postorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0257-binary-tree-paths) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1382-balance-a-binary-search-tree](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Search Tree
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0493-reverse-pairs](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0493-reverse-pairs) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0501-find-mode-in-binary-search-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/1382-balance-a-binary-search-tree) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -186,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0145-binary-tree-postorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0257-binary-tree-paths) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1382-balance-a-binary-search-tree](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/1382-balance-a-binary-search-tree) |
 ## Sorting
