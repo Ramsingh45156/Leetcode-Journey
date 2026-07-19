@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0029-divide-two-integers) |
 | [0096-unique-binary-search-trees](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0096-unique-binary-search-trees) |
+| [0396-rotate-function](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0396-rotate-function) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0119-pascals-triangle-ii](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0119-pascals-triangle-ii) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0396-rotate-function](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0396-rotate-function) |
 | [0493-reverse-pairs](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0493-reverse-pairs) |
 | [0720-longest-word-in-dictionary](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0720-longest-word-in-dictionary) |
 | [1288-remove-covered-intervals](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/1288-remove-covered-intervals) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0096-unique-binary-search-trees) |
 | [0119-pascals-triangle-ii](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0119-pascals-triangle-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0396-rotate-function](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0396-rotate-function) |
 | [1301-number-of-paths-with-max-score](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/1301-number-of-paths-with-max-score) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Divide and Conquer
