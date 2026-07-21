@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0096-unique-binary-search-trees) |
 | [0119-pascals-triangle-ii](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0119-pascals-triangle-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0338-counting-bits](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0338-counting-bits) |
 | [0396-rotate-function](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0396-rotate-function) |
 | [1301-number-of-paths-with-max-score](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/1301-number-of-paths-with-max-score) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0029-divide-two-integers) |
+| [0338-counting-bits](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0338-counting-bits) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/3534-path-existence-queries-in-a-graph-ii) |
