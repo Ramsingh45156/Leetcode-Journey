@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0207-course-schedule) |
 | [0257-binary-tree-paths](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0257-binary-tree-paths) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0785-is-graph-bipartite](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0785-is-graph-bipartite) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0207-course-schedule) |
 | [0785-is-graph-bipartite](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0785-is-graph-bipartite) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0207-course-schedule) |
 | [0785-is-graph-bipartite](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0785-is-graph-bipartite) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -332,4 +335,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
