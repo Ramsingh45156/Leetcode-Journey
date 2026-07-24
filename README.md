@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0396-rotate-function](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0396-rotate-function) |
 | [0493-reverse-pairs](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0493-reverse-pairs) |
+| [0695-max-area-of-island](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0695-max-area-of-island) |
 | [0720-longest-word-in-dictionary](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0720-longest-word-in-dictionary) |
 | [1260-shift-2d-grid](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/1288-remove-covered-intervals) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0207-course-schedule) |
 | [0257-binary-tree-paths](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0257-binary-tree-paths) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0695-max-area-of-island](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0785-is-graph-bipartite) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1382-balance-a-binary-search-tree](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/1382-balance-a-binary-search-tree) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0695-max-area-of-island) |
 | [1260-shift-2d-grid](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/1301-number-of-paths-with-max-score) |
 ## Two Pointers
@@ -134,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0207-course-schedule) |
+| [0695-max-area-of-island](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0785-is-graph-bipartite) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -142,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0785-is-graph-bipartite) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
