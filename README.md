@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0396-rotate-function) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1840-maximum-building-height](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/1840-maximum-building-height) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/3312-sorted-gcd-pair-queries) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1840-maximum-building-height](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/1840-maximum-building-height) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1840-maximum-building-height](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/1840-maximum-building-height) |
 | [2784-check-if-array-is-good](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/2784-check-if-array-is-good) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/3536-maximum-product-of-two-digits) |
