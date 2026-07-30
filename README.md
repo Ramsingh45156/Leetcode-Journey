@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0119-pascals-triangle-ii](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0119-pascals-triangle-ii) |
 | [0200-number-of-islands](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0200-number-of-islands) |
+| [0213-house-robber-ii](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0213-house-robber-ii) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0396-rotate-function](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0396-rotate-function) |
 | [0493-reverse-pairs](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0493-reverse-pairs) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0096-unique-binary-search-trees) |
 | [0119-pascals-triangle-ii](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0119-pascals-triangle-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0213-house-robber-ii](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0213-house-robber-ii) |
 | [0338-counting-bits](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0338-counting-bits) |
 | [0396-rotate-function](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0396-rotate-function) |
 | [1301-number-of-paths-with-max-score](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/1301-number-of-paths-with-max-score) |
