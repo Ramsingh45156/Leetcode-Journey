@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0045-jump-game-ii) |
 | [0079-word-search](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0045-jump-game-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0096-unique-binary-search-trees) |
 | [0119-pascals-triangle-ii](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0119-pascals-triangle-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0045-jump-game-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1382-balance-a-binary-search-tree](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/1382-balance-a-binary-search-tree) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
