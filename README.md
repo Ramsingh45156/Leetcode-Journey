@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0029-divide-two-integers) |
 | [0096-unique-binary-search-trees](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0096-unique-binary-search-trees) |
+| [0171-excel-sheet-column-number](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0171-excel-sheet-column-number) |
 | [0396-rotate-function](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0396-rotate-function) |
 | [0486-predict-the-winner](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0628-maximum-product-of-three-numbers) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0079-word-search](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0079-word-search) |
+| [0171-excel-sheet-column-number](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0171-excel-sheet-column-number) |
 | [0257-binary-tree-paths](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0257-binary-tree-paths) |
 | [0686-repeated-string-match](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0686-repeated-string-match) |
 | [0720-longest-word-in-dictionary](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0720-longest-word-in-dictionary) |
