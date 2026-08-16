@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1840-maximum-building-height](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/1840-maximum-building-height) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/3312-sorted-gcd-pair-queries) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1840-maximum-building-height](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/1840-maximum-building-height) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/2029-stone-game-ix) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2784-check-if-array-is-good](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/2784-check-if-array-is-good) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0045-jump-game-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1382-balance-a-binary-search-tree](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/1382-balance-a-binary-search-tree) |
+| [2029-stone-game-ix](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -412,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [2029-stone-game-ix](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/3312-sorted-gcd-pair-queries) |
 ## Monotonic Stack
@@ -442,20 +446,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
