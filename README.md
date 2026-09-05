@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0119-pascals-triangle-ii) |
 | [0200-number-of-islands](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0213-house-robber-ii) |
+| [0238-product-of-array-except-self](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0238-product-of-array-except-self) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0396-rotate-function](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0396-rotate-function) |
 | [0486-predict-the-winner](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0486-predict-the-winner) |
@@ -407,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0238-product-of-array-except-self) |
 | [1140-stone-game-ii](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/1140-stone-game-ii) |
 | [1872-stone-game-viii](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/1872-stone-game-viii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/3312-sorted-gcd-pair-queries) |
