@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [0695-max-area-of-island](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0695-max-area-of-island) |
 | [0720-longest-word-in-dictionary](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0720-longest-word-in-dictionary) |
+| [0835-image-overlap](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0877-stone-game) |
 | [0997-find-the-town-judge](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0997-find-the-town-judge) |
 | [1140-stone-game-ii](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/1140-stone-game-ii) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0695-max-area-of-island) |
+| [0835-image-overlap](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/1301-number-of-paths-with-max-score) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/3568-minimum-moves-to-clean-the-classroom) |
