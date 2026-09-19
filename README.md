@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/1140-stone-game-ii) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/1563-stone-game-v) |
@@ -566,4 +567,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Geometry
+|  |
+| ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
