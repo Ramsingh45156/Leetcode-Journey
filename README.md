@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0142-linked-list-cycle-ii) |
 | [0720-longest-word-in-dictionary](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0720-longest-word-in-dictionary) |
 | [0997-find-the-town-judge](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0997-find-the-town-judge) |
+| [1096-brace-expansion-ii](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0940-distinct-subsequences-ii) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0257-binary-tree-paths) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0988-smallest-string-starting-from-leaf) |
+| [1096-brace-expansion-ii](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/1096-brace-expansion-ii) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -242,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0207-course-schedule) |
 | [0695-max-area-of-island](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0785-is-graph-bipartite) |
+| [1096-brace-expansion-ii](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/1096-brace-expansion-ii) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/2685-count-the-number-of-complete-components) |
@@ -386,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0147-insertion-sort-list) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [0720-longest-word-in-dictionary](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0720-longest-word-in-dictionary) |
+| [1096-brace-expansion-ii](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -488,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0145-binary-tree-postorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/1096-brace-expansion-ii) |
 ## Number Theory
 |  |
 | ------- |
