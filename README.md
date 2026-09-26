@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0142-linked-list-cycle-ii](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0142-linked-list-cycle-ii) |
 | [0720-longest-word-in-dictionary](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0720-longest-word-in-dictionary) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0997-find-the-town-judge](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0997-find-the-town-judge) |
 | [1096-brace-expansion-ii](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/1331-rank-transform-of-an-array) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0720-longest-word-in-dictionary](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0720-longest-word-in-dictionary) |
 | [0835-image-overlap](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0877-stone-game) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0997-find-the-town-judge](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0997-find-the-town-judge) |
 | [1140-stone-game-ii](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/1260-shift-2d-grid) |
@@ -454,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0238-product-of-array-except-self) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1140-stone-game-ii](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/1140-stone-game-ii) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
