@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0079-word-search) |
 | [0171-excel-sheet-column-number](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0171-excel-sheet-column-number) |
 | [0257-binary-tree-paths](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0257-binary-tree-paths) |
+| [0301-remove-invalid-parentheses](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0301-remove-invalid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0678-valid-parenthesis-string) |
 | [0686-repeated-string-match](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0686-repeated-string-match) |
 | [0720-longest-word-in-dictionary](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0720-longest-word-in-dictionary) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0257-binary-tree-paths) |
+| [0301-remove-invalid-parentheses](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0301-remove-invalid-parentheses) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1096-brace-expansion-ii](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/1096-brace-expansion-ii) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0207-course-schedule) |
+| [0301-remove-invalid-parentheses](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0301-remove-invalid-parentheses) |
 | [0695-max-area-of-island](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0785-is-graph-bipartite) |
 | [1096-brace-expansion-ii](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/1096-brace-expansion-ii) |
