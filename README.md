@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1840-maximum-building-height](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/1840-maximum-building-height) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1840-maximum-building-height](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/1840-maximum-building-height) |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0785-is-graph-bipartite) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/2685-count-the-number-of-complete-components) |
@@ -329,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/1872-stone-game-viii) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -344,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0493-reverse-pairs](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0493-reverse-pairs) |
 | [1382-balance-a-binary-search-tree](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/1382-balance-a-binary-search-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Greedy
 |  |
 | ------- |
@@ -387,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0501-find-mode-in-binary-search-tree](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1382-balance-a-binary-search-tree](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/1382-balance-a-binary-search-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search Tree
 |  |
@@ -399,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0501-find-mode-in-binary-search-tree](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0501-find-mode-in-binary-search-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/1382-balance-a-binary-search-tree) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -426,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0501-find-mode-in-binary-search-tree](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1382-balance-a-binary-search-tree](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/1382-balance-a-binary-search-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Sorting
 |  |
@@ -479,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -664,4 +673,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Memoization
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
