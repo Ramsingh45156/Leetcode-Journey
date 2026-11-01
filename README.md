@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0096-unique-binary-search-trees) |
 | [0171-excel-sheet-column-number](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0171-excel-sheet-column-number) |
 | [0396-rotate-function](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0396-rotate-function) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0877-stone-game) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0238-product-of-array-except-self) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0396-rotate-function](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0396-rotate-function) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0493-reverse-pairs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ramsingh45156/Leetcode-Journey/tree/master/0628-maximum-product-of-three-numbers) |
